@@ -1,6 +1,6 @@
 # *A Breath Of Hope - Automated Ambu Ventilator ABOH*
 
-*Hardware and Software*
+# *Hardware and Software*
 * Gustavo Santos Barban - EESC/USP
 
 *Design and Prototyping*
